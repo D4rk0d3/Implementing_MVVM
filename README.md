@@ -1,2 +1,2 @@
 # Implementing_MVVM
-implementando MVVM
+Implementando MVVM en una App de frases Filosificas
